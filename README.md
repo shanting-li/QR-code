@@ -15,5 +15,6 @@ There are 3 functions, gen_qrcode, batch_gen and veri.
 2.test_m.py 
 
 It contains several dictionaries to help you test the two programs mentioned above. 
+
 To help test all possibilities, you also need to download the two png files and pkls. 
 Please place all the files mentioned above in one file.
